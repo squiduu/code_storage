@@ -1,5 +1,5 @@
 # BERT - Yutaro Ogawa ver. - PyTorch
-## Summary
+### Summary
 * Building BERT model architecture
 * Fine-tuning of pre-trained BERT
 ~~~
