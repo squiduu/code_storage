@@ -3,7 +3,7 @@
 * Building BERT model architecture
 * Fine-tuning of pre-trained BERT
 ~~~
-Codes
+Code
     config.py : Configuration for model training or inference
     tokenizer.py : Tokenizer of input sequences
     dataloader.py : Dataloader for training, validation, and test datasets
