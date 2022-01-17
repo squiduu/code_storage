@@ -16,6 +16,6 @@ Vocab
     Making vocabulary only with words of MultiWOZ 2.0 dataset
 
 Database
-    MultiWOZ 2.0 : The most famous dialogue dataset for common DST models  (not included)
+    MultiWOZ 2.0 : The most famous dialogue dataset for common DST models (not included)
 ~~~
 This code is based on <https://github.com/jasonwu0731/trade-dst>
